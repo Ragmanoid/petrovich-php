@@ -10,7 +10,7 @@
 
 https://github.com/parshikov/petrovich-php-example
 
-##Установка
+## Установка
 
 Для работы требуется PHP >= 5.3
 
@@ -29,7 +29,7 @@ git submodule add --init https://github.com/petrovich/petrovich-php.git lib/petr
 
 или просто скачайте исходный код со страницы проекта на Github.
 
-##Использование
+## Использование
 
 В библиотеку входит класс ```Petrovich``` и trait ```Trait_Petrovich```
 
